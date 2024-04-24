@@ -36,7 +36,7 @@ Solves the direct problem of kinematics, which consists in calculating the posit
     pip install numpy
    ```
 
-5. Change the server address in config.py. The default is a local address.
+5. Change the server address and port in config.py. The default is a local address and port=8088.
 
 ## Usage
 
